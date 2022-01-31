@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7852349a-f93f-49b0-bf34-4fd00ed80ca6" name="Changes" comment="Add email-validator to requirements.txt">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="7852349a-f93f-49b0-bf34-4fd00ed80ca6" name="Changes" comment="Add postgres support" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643564639708</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add postgres support">
+      <created>1643632173055</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1643632173055</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +117,7 @@
     <MESSAGE value="New ignore file" />
     <MESSAGE value="Add gunircorn" />
     <MESSAGE value="Add email-validator to requirements.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add email-validator to requirements.txt" />
+    <MESSAGE value="Add postgres support" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add postgres support" />
   </component>
 </project>
